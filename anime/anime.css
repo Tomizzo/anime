@@ -3,7 +3,7 @@
 }
 
 .list-container {
-    background-color: #222222 !important;
+    background-color: rgba(34,34,34,0.5) !important;
     width: 1024px;
     margin-top: 50;
 }
